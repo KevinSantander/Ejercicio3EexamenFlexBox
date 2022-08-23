@@ -1,0 +1,81 @@
+body {
+  background-color: aquamarine;
+  padding: 20px;
+}
+
+.caja1 {
+  display: flex;
+  border: 1px solid black;
+  background-color: rgb(18, 6, 189);
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  width: auto;
+  height: 150px;
+}
+
+.caja2 {
+  display: flex;
+  float: left;
+  border: 1px solid black;
+  background-color: rgb(187, 50, 50);
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  width: 40%;
+  height: 800px;
+}
+
+.caja3 {
+  display: flex;
+  float: right;
+  border: 1px solid black;
+  background-color: rgb(56, 167, 34);
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  width: 55%;
+  height: 200px;
+}
+
+.caja4 {
+  display: flex;
+  float: right;
+  border: 1px solid black;
+  background-color: rgb(225, 228, 54);
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  width: 55%;
+  height: 200px;
+}
+
+.caja5 {
+  display: flex;
+  float: right;
+
+  margin-right: 10x;
+
+  border: 1px solid black;
+  background-color: rgb(179, 45, 149);
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  width: 25%;
+  height: 325px;
+}
+
+.caja6 {
+  display: flex;
+  float: right;
+
+  margin-right: 10px;
+
+  border: 1px solid black;
+  background-color: rgb(49, 182, 206);
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  width: 25%;
+  height: 325px;
+}
